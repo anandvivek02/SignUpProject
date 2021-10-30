@@ -1,0 +1,5 @@
+// Sign up as a guest
+
+let the user click on sign up as a guest
+take the user directly to the application home page
+restrict the access of the guest user inside the application pages

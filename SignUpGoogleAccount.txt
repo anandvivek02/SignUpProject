@@ -1,0 +1,12 @@
+// sign up using existing Google account
+
+click on sign up using google account
+
+enter your google un & pwd
+
+click on sign up button
+
+if the entered UN & PWD is valid, take the user to the application home page
+
+if the entered UN & PWD is invalid, throw sign up error
+

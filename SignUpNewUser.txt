@@ -1,0 +1,6 @@
+// sign up as a new user
+
+let the UN be entered along with a strong PWD
+validate if this UN is available
+if available, sign up is success
+if unavailable, sign up is failure
